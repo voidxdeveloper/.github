@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://voidxdeveloper.com/og-image.png" alt="Voidx Developer" width="100%" />
+  <img src="https://github.com/voidxdeveloper/.github/blob/main/profile/og-image.png?raw=true" alt="Voidx Developer" width="100%" />
 
   # Voidx Developer
 
